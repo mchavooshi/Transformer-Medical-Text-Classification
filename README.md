@@ -1,6 +1,5 @@
 # Transformer-Medical-Text-Classification
 
-# Transformer Medical Text Classification
 
 ## Project Overview
 This project focuses on comparing the performance of two transformer-based models, **Bio_ClinicalBERT** and **Bert-base-uncased**, in classifying medical texts. The dataset used is **123rc/medical_text** from Hugging Face, containing labeled text data split into five classes. The goal is to train, test, and evaluate these models to determine the better-performing one in this specific application.
